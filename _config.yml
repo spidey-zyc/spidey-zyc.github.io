@@ -23,10 +23,10 @@ repository               : "https://github.com/spidey-zyc/spidey-zyc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ppportrait.png"
+  avatar           : "ppportrait_bigger.png"
   name             : "Yichi Zhang 张亦弛"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate at SJTU"
+  bio              : "a third-year Undergraduate at SJTU"
   location         : "Shanghai, China"
   employer         : # "Red Brick University"
   uri              : # URL
